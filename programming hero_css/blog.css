@@ -1,0 +1,48 @@
+.header{
+    height: 400px;
+    /* background-color: #5c30a3; */
+    background-image: url('us.jpg');
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+    /* background-size: cover; */
+    /* background-size: contain; */
+    background-size: 200px;
+    /* background-image: url(../); */
+    /* background-image: url(../); */
+}
+h3{
+    font-size: 30px;
+    text-decoration: overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blog{
+    margin: 40px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blue;
+}
+
+.second{
+    /* display: none; */
+    /* visibility: hidden; */
+}
+
+.incident{
+    border: 1px solid purple;
+    /* display: block; */
+    /* height: 200px; */
+    margin: 20px;
+    /* padding: 20px; */
+    display: inline-block;
+}
+
+li{
+    display: inline;
+}
+
+.dolor{
+    border: 2px solid peru;
+    height: 60px;
+    display: inline-block;
+}
